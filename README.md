@@ -18,7 +18,7 @@ __Create a Project__
 
  Open th console and write 
 
-  > >pub global activate webdev
+  > pub global activate webdev
   
   > pub global activate stagehand
   
