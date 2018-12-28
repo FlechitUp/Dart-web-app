@@ -14,9 +14,10 @@ __Install Dart (Windows)__
 	access it from our command-line.
 	![alt text](https://github.com/FlechitUp/Dart-web-app/blob/master/var.PNG)
 
-__ Create a Project __
+__Create a Project__
 
   > pub global activate webdev
+  
   > pub global activate stagehand
   
   Create the file project
