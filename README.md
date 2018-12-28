@@ -16,14 +16,17 @@ __Install Dart (Windows)__
 
 __Create a Project__
 
-  > pub global activate webdev
+   > pub global activate webdev
   
   > pub global activate stagehand
   
   Create the file project
   > mkdir nameFile
+  
   > cd nameFile
+  
   > stagehand web-simple
+  
   > pub get
   
   Run the app
