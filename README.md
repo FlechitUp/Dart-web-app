@@ -16,23 +16,23 @@ __Install Dart (Windows)__
 
 __Create a Project__
 
- Open th console and write 
+ Open the console and write:
 
-  > pub global activate webdev
+  > $pub global activate webdev
   
-  > pub global activate stagehand
+  > $pub global activate stagehand
   
   Create the file project
-  > mkdir nameFile
+  > $mkdir nameFile
   
-  > cd nameFile
+  > $cd nameFile
   
-  > stagehand web-simple
+  > $stagehand web-simple
   
-  > pub get
+  > $pub get
   
   Run the app
-  > webdev serve
+  > $webdev serve
   
   Open your web link on the browser: http://localhost:8080/
   
