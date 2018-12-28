@@ -16,7 +16,9 @@ __Install Dart (Windows)__
 
 __Create a Project__
 
-   > pub global activate webdev
+ Open th console and write 
+
+  > >pub global activate webdev
   
   > pub global activate stagehand
   
