@@ -1,5 +1,5 @@
 # Dart-web-app
-** Install Dart (Windows)**
+__Install Dart (Windows)__
 
 Next install the VS Code Dart extension. You can install it via the Extension tabs in 
 VS Code by searching for Dart, or by downloading it from Visual Studio Code Marketplace.
