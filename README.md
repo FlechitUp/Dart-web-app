@@ -1,4 +1,5 @@
 # Dart-web-app
+![alt text](https://github.com/FlechitUp/Dart-web-app/blob/master/var.PNG)
 __Install Dart (Windows)__
 
 	Next install the VS Code Dart extension. You can install it via the Extension tabs in 
@@ -13,7 +14,7 @@ __Install Dart (Windows)__
 	Next add three paths of the follow image to our environment variables so that we can
 	access it from our command-line.
 	
-	![alt text](https://github.com/FlechitUp/Dart-web-app/blob/master/var.PNG)
+![alt text](https://github.com/FlechitUp/Dart-web-app/blob/master/var.PNG)
 
 __Create a Project__
 
