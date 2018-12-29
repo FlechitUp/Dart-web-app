@@ -12,6 +12,7 @@ __Install Dart (Windows)__
 
 	Next add three paths of the follow image to our environment variables so that we can
 	access it from our command-line.
+	
 	![alt text](https://github.com/FlechitUp/Dart-web-app/blob/master/var.PNG)
 
 __Create a Project__
