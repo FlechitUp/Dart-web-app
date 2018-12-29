@@ -11,7 +11,7 @@ __Install Dart (Windows)__
 	Unzip to any location on you computer. I unzipped it to my C:\dart
 
 
-	Next add three paths of the follow image to our environment variables so that we can
+	Next add the three paths of the follow image to environment variables so that we can
 	access it from our command-line.
 	
 ![alt text](https://github.com/FlechitUp/Dart-web-app/blob/master/var.PNG)
