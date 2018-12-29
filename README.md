@@ -55,10 +55,7 @@ __Create a Project__
   
   ##########################
   
-  
-  # Stagehand - A Dart project generator
 
-![Stagehand banner](https://raw.githubusercontent.com/dart-lang/stagehand/master/site/banner_stagehand.jpg)
 
 [![pub package](https://img.shields.io/pub/v/stagehand.svg)](https://pub.dartlang.org/packages/stagehand)
 [![Build Status](https://travis-ci.org/dart-lang/stagehand.svg?branch=master)](https://travis-ci.org/dart-lang/stagehand)
