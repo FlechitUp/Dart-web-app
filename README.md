@@ -27,8 +27,7 @@ __Create a Project__
   
   > $cd nameFile
   
-  Choose a Stagehand templates:
-  ## Stagehand templates
+##  Choose a Stagehand templates
 * `console-full` - A command-line application sample.
 * `package-simple` - A starting point for Dart libraries or applications.
 * `server-shelf` - A web server built using the shelf package.
