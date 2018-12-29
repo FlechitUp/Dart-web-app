@@ -57,16 +57,6 @@ __Create a Project__
   
 
 
-[![pub package](https://img.shields.io/pub/v/stagehand.svg)](https://pub.dartlang.org/packages/stagehand)
-[![Build Status](https://travis-ci.org/dart-lang/stagehand.svg?branch=master)](https://travis-ci.org/dart-lang/stagehand)
-[![Coverage Status](https://coveralls.io/repos/dart-lang/stagehand/badge.svg?branch=master)](https://coveralls.io/r/dart-lang/stagehand?branch=master)
-
-## Helps you get set up!
-
-Stagehand helps you get your Dart projects set up and ready for the big show.
-It is a Dart project scaffolding generator, inspired by tools like Web Starter
-Kit and Yeoman.
-
 ## Stagehand templates
 * `console-full` - A command-line application sample.
 * `package-simple` - A starting point for Dart libraries or applications.
