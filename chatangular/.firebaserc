@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "mydart1": "mydart-proj",
+    "default": "mydart-proj"
+  },
+  "targets": {
+    "mydart-proj": {
+      "hosting": {
+        "chatangular": [
+          "MyProject5652"
+        ]
+      }
+    }
+  }
+}
